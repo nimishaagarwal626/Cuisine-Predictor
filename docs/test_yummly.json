@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1000, 
+        "cuisine": "greek", 
+        "ingredients": [
+            "romaine lettuce",
+            "black olives",
+            "grape tomatoes",
+            "garlic",
+            "pepper",
+            "purple onion",
+            "seasoning",
+            "garbanzo beans",
+            "feta cheese crumbles"
+        ]
+    },
+    {
+        "id": 22213,
+        "cuisine": "indian",
+        "ingredients": [
+          "water",
+          "vegetable oil",
+          "wheat",
+          "salt"
+        ]
+    }
+]
