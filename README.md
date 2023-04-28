@@ -17,6 +17,8 @@ scikit-learn installation: pipenv install scikit-learn
 
 # Video:
 
+https://user-images.githubusercontent.com/114453254/235029491-aa7225bd-1779-4dd7-8f80-950547df26c8.mov
+
 ## Functions
 # project2.py \
 * read_json_file(filename) - This function takes the filename as input parameter which is a json file and convert it into a dataframe which is then returned.
